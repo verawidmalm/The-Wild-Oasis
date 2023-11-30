@@ -2,4 +2,7 @@
 
 ## Main project from React Course
 
-By Vera Widmalm
+Built with React Query and Supabase.
+Link to deployed app: https://veras-oasis.netlify.app/
+
+### By Vera Widmalm
